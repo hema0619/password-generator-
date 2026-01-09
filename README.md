@@ -33,4 +33,4 @@ use_symbols = input("Include special characters? (y/n): ").lower() == 'y'
 
 password = generate_password(length, use_upper, use_lower, use_digits, use_symbols)
 
-print("\nGenerated Password:", password)
+print("\nGenerated Password:", password) 
