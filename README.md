@@ -1,3 +1,4 @@
+![password-generator](https://github.com/user-attachments/assets/b13aa719-4775-4794-963f-82f072f5228e)
 # password-generator-
 the project generates strong random passwords based on user-selected criteria 
 import random
